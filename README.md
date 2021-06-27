@@ -67,14 +67,4 @@ npm start
 * * Enviar perguntas
 * * Curtir outras perguntas
 
-## 🛸 Funcionalidades Adicionais
-* Ordenar as perguntas com a seguinte prioridade
-* * As com HighLight
-* * As com maior número de curtidas
-* * As já respondidas
-* Responsividades
-* Validação se o usuário é o dono da sala para entrar na parte de admin
-* Opção de Dark Mode
-
-
 <br/>
